@@ -15,7 +15,7 @@ headMoskit = {'Content-Type': "application/json",
 
 headSpotter = {
   'Content-Type': 'application/json',
-  'token_exact': '35a33b30-e84b-4fcb-ae12-4dd98f569be3'}
+  'token_exact': 'xxxxxxxx'}
 
 def agendamento_Moskit(informacoes:dict):
     try:
