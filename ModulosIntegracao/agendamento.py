@@ -10,7 +10,7 @@ logger = logging.getLogger("app") # Alterar de acordo com o nome da função mai
 
 # Head requisicoes moskit
 headMoskit = {'Content-Type': "application/json",
-        'apikey': "a2c471ed-68d4-4693-916c-7afd42e0d943",
+        'apikey': "xxxxxx",
         "X-Moskit-Origin": "Spotter_Integracao_TI_Elysia"} # Token da API do Moskit
 
 headSpotter = {
